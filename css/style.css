@@ -1,0 +1,25 @@
+body {
+}
+
+
+.name{
+ text-align: center;
+}
+
+.navbar-brand {
+  height: 6em;
+}
+
+nav {
+  background: white;
+}
+
+.nav-link {
+  background: #444041;
+  font-size: 2em;
+  color: white;
+}
+
+.jumbotron {
+  opacity: 0.5;
+}
