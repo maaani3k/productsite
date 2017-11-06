@@ -1,13 +1,9 @@
-body {
-}
+body{ 
 
+}
 
 .name{
  text-align: center;
-}
-
-.navbar-brand {
-  height: 6em;
 }
 
 nav {
@@ -22,4 +18,8 @@ nav {
 
 .jumbotron {
   opacity: 0.5;
+}
+
+.newspan {
+  text-align : center;
 }
